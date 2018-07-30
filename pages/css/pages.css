@@ -14,5 +14,9 @@ body {
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
+div { display: block;
+    height: 40px;
+    width: 40px;
+}
 
 /* Voeg jouw css hieraan toe */
