@@ -12,11 +12,39 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    max-width: 100%; 
 }
-div { display: block;
-    height: 40px;
-    width: 40px;
+p.color1{
+    background-color: rgb(112, 193, 293);
+    width: 80px;
+    height: 20px;
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
+    }
+p.color2{ 
+    background-color:#ABDEE6;
+    width: 80px;
+    height: 20px;
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
 }
 
-/* Voeg jouw css hieraan toe */
+p.color3{ 
+    background-color: #EAC5D7;
+    width: 80px;
+    height: 20px;
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
+    }
+p.color4{ 
+    background-color: #F5FBFD;
+    width: 80px;
+    height: 20px;
+    color: grey;
+    padding: 15px;
+    border-radius: 15px;
+    }
+
