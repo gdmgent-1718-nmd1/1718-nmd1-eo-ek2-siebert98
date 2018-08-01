@@ -16,15 +16,16 @@ img {
 }
 p.color1{
     background-color: rgb(112, 193, 293);
-    width: 80px;
+    width: 800px;
     height: 20px;
     color: white;
     padding: 15px;
     border-radius: 12px;
+    align-content: flex-end;
     }
 p.color2{ 
     background-color:#ABDEE6;
-    width: 80px;
+    width: 500px;
     height: 20px;
     color: white;
     padding: 15px;
@@ -33,7 +34,7 @@ p.color2{
 
 p.color3{ 
     background-color: #EAC5D7;
-    width: 80px;
+    width: 400px;
     height: 20px;
     color: white;
     padding: 15px;
@@ -41,7 +42,7 @@ p.color3{
     }
 p.color4{ 
     background-color: #F5FBFD;
-    width: 80px;
+    width: 250px;
     height: 20px;
     color: grey;
     padding: 15px;
@@ -55,6 +56,7 @@ p.color4{
     font-size: 44pt;
     color: #ffffff;
     background-color: #70C1DB;
+    
 
     }
 
@@ -93,8 +95,10 @@ p.color4{
 .Lcolor{
     color: #ABDEE6;
 }
- .iconen{
-     padding: 40px;
+ .knoppen1{
+     padding: 15px;
+    border: 12px solid #70C1DB;
+    
     
  }
  .titel{
@@ -109,3 +113,16 @@ p.color4{
      z-index: 10;
      color: white;
  }
+.logo{
+    padding: 15px;
+    border: 12px solid #70C1DB;
+}
+
+.kleuren{
+    padding: 15px;
+    border: 12px solid #70C1DB;
+}
+.typografie{
+    padding: 15px;
+    border: 12px solid #70C1DB;
+}
