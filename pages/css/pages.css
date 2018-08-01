@@ -38,7 +38,7 @@ p.color3{
     height: 20px;
     color: white;
     padding: 15px;
-    border-radius: 12px;
+    border-radius: 12px;  
     }
 p.color4{ 
     background-color: #F5FBFD;
@@ -96,6 +96,7 @@ p.color4{
     color: #ABDEE6;
 }
  .knoppen1{
+     margin: 12px;
      padding: 15px;
     border: 12px solid #70C1DB;
     
@@ -114,15 +115,18 @@ p.color4{
      color: white;
  }
 .logo{
+    margin: 12px;
     padding: 15px;
     border: 12px solid #70C1DB;
 }
 
 .kleuren{
+    margin: 12px;
     padding: 15px;
     border: 12px solid #70C1DB;
 }
 .typografie{
+    margin: 12px;
     padding: 15px;
     border: 12px solid #70C1DB;
 }
