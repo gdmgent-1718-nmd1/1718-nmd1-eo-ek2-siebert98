@@ -207,12 +207,13 @@ p.color8{
      border-radius: 36px;
 
 }
-.info{
+.info {
     color: #70C1DB;
     margin: 25px;
     
     }
-.titelintro{
+.titelintro {
     margin-top: 745px;
     margin: 25px;
-}
+    color: #70C1DB;
+    }
