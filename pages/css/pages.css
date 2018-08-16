@@ -155,22 +155,26 @@ p.color8{
      background-color: #70C1DB;
      z-index: 10;
      color: white;
+     border-radius: 36px;
  }
 .logo{
     margin: 12px;
     padding: 15px;
     border: 12px solid #70C1DB;
+    border-radius: 12px;
 }
 
 .kleuren{
     margin: 12px;
     padding: 15px;
     border: 12px solid #70C1DB;
+    border-radius: 12px;
 }
 .typografie{
     margin: 12px;
     padding: 15px;
     border: 12px solid #70C1DB;
+    border-radius: 12px;
 }
 
 
@@ -178,6 +182,7 @@ p.color8{
     margin: 12px;
     padding: 15px;
     border: 12px solid #70C1DB;
+    border-radius: 12px;
 }
 
 .scenario{ 
@@ -193,11 +198,21 @@ p.color8{
      position: fixed;
      top: 0px;
      left: 0px;
-     margin: 0px;
+     margin: px;
      padding: 0px;
      width: 100%;
      z-index: 10;
      color:rgb(255, 255, 255);
      background-color: #70C1DB;
      border-radius: 36px;
+
+}
+.info{
+    color: #70C1DB;
+    margin: 25px;
+    
+    }
+.titelintro{
+    margin-top: 745px;
+    margin: 25px;
 }
