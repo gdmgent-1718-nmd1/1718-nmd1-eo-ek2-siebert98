@@ -88,26 +88,44 @@ p.color8{
     padding-top: 24px;
     padding-bottom: 26px;
     position: static;
-    font-size: 44pt;
-    color: #ffffff;
-    background-color: #70C1DB;
-    
-
+    font-size: 57pt;
+    color:#46687E;
     }
 
 .Lettertype2{
     padding-top: 24px;
     padding-bottom: 24px;
-    font-size: 40pt;
+    font-size: 50pt;
     position: static;
-    color:#46687E 
+    color:#46687E;
 }
-.lettertype3{
-    color: white;
-    background-color: #70C1DB;
-    font-size: 30pt;
+
+.Lettertype3{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-size: 44pt;
     position: static;
+    color:#46687E;
+
 }
+
+.Lettertype4{
+        padding-top: 24px;
+        padding-bottom: 24px;
+        font-size: 35pt;
+        position: static;
+        color:#46687E;
+}
+.Lettertype5{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-size: 20pt;
+    position: static;
+    color:#46687E;
+
+}
+
+
 
 .icoon1{
     width: 40px;
