@@ -235,3 +235,15 @@ p.color8{
     margin: 25px;
     color: #70C1DB;
     }
+.intro{
+    margin: 12px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    background-color: #70C1DB;
+    border-radius: 15px;
+}
+.h1intro{
+    color: #70C1DB;
+    font-size: 25pt;
+
+}
